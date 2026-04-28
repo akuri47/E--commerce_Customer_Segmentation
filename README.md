@@ -33,3 +33,5 @@ Online Retail II Dataset
 - Identified 5 distinct customer segments
 - Generated association rules for product recommendations
 - Built a recommendation system based on purchasing patterns
+
+
